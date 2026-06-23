@@ -143,9 +143,6 @@ to the deployed backend URL, for example:
 ```js
 https://your-backend-url.onrender.com
 ```
-
-The API key should be added as an environment variable on the deployment platform, not uploaded to GitHub.
-
 ## Summary
 During this assignment, we:
 * Used Postman to test API requests and understand how APIs work.
